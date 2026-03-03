@@ -23,4 +23,4 @@ Bu Python projesi, kullanıcıdan alınan bir metindeki **Türkçe özel karakte
 1. Python dosyasını çalıştırın:
 
 ```bash
-python turkce_karakter_arindirici.py
+python tka.py
